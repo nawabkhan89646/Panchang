@@ -11,7 +11,7 @@ const Aries = () => {
         <p>
         Aries Horoscope 2025 promises a dynamic and rewarding year for those born under this fiery sign. With success in career, strengthened relationships, and improved health, 2025 is all about seizing opportunities and turning challenges into triumphs. Discover what the stars have in store for your love life, finances, and personal growth this year – read now!
         </p>
-        <img src={aries} alt="astrology" />
+        <img src={aries} alt="aries" />
         <p>
         Aries Horoscope 2025 says that this year will prove very beneficial for you. During this period, your energy level rises. You can expect progress in your career. Along with this, your family life will remain happy and your relationships will become stronger with time. There will be health improvement this year according to Aries Horoscope 2025. You can make full use of the opportunities this year and can expect success in your endeavors. Know further how this year will be for your love life, financial life, career, etc.
         </p>

@@ -14,7 +14,7 @@ const Virgo = () => {
         <p>
         As we move forward into the year, the changes on the horizon will affect various aspects of your life. From career advancements to transformations in relationships, 2025 promises to bring a wave of new opportunities. Understanding these changes will be crucial, and AstroSage AI's Virgo Horoscope 2025 will offer valuable insights. With its detailed predictions, you will be better equipped to navigate this transformative year, making informed decisions every step of the way.
         </p>
-        <img src={virgo} alt="gemini" />
+        <img src={virgo} alt="virgo" />
       </div>
       
       <div className="box21">

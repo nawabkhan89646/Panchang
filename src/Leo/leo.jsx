@@ -14,7 +14,7 @@ const Leo = () => {
         <p>
         This year will bring changes in different aspects of life, and the AstroSage AI's Leo horoscope 2025 will help you understand everything better. From career developments to personal relationships, the insights offered will guide you through the transformative periods. By harnessing the power of technology and astrology, you will gain a clearer understanding of what to expect and how to navigate the challenges and opportunities that come your way. Let us find out in detail!
         </p>
-        <img src={leo} alt="gemini" />
+        <img src={leo} alt="leo" />
       </div>
       
       <div className="box21">

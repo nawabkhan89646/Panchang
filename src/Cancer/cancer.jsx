@@ -14,7 +14,7 @@ const Cancer = () => {
         <p>
         As we move into 2025, it’s expected that various aspects of your life will undergo notable transformations. Whether it’s in your career, personal life, or health, these changes may help you evolve and achieve greater clarity. To guide you through these shifts and help you navigate the year with more insight, AstroSage AI's Cancer Horoscope for 2025 will provide valuable predictions tailored to your unique circumstances. Without any further ado, let us explore this year’s horoscope for Cancer natives!
         </p>
-        <img src={cancer} alt="gemini" />
+        <img src={cancer} alt="cancer" />
       </div>
       
       <div className="box21">

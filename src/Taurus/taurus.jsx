@@ -11,7 +11,7 @@ const Taurus = () => {
         <p>
         Taurus Horoscope 2025 indicates that there are chances of success and prosperity for you. You won’t face any shortage of money or financial troubles in 2025 and there are chances of stability in your life. You will move forward towards achieving your goals. According to Taurus Horoscope 2025, your relationship will grow stronger in 2025, and will feel happy and satisfied. Know further how the year is going to be for the people of the Taurus zodiac in terms of love life, financial life, career, etc.
         </p>
-        <img src={taurus} alt="astrology" />
+        <img src={taurus} alt="taurus" />
         <p>
         As the planets move through different positions, you may encounter opportunities for growth, but also face challenges that will require attention and adjustment. AstroSage AI's Taurus Horoscope 2025 will help you understand the planetary influences and how they will affect your day-to-day life, offering guidance to navigate the year ahead with confidence and clarity. So without wasting any more time, let us find out what this year will look like for Taurus natives!
         </p>

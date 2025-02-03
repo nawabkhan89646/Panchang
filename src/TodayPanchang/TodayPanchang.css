@@ -1,0 +1,66 @@
+body {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    background-color: #f5e6d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.panchang-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 300px;
+    height: 55vh;
+    text-align: center;
+}
+
+.panchang-card h2 {
+    font-size: 28px;
+    margin: 0;
+    padding: 8px 0px 0px 0px;
+    color: #584f47;
+}
+
+.location {
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+.details p {
+    margin: 8px 0;
+    font-size: 14px;
+    color: #444444;
+}
+
+.highlight a {
+    color: #B92204;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.time a{
+    color: #B92204;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.panchang-button {
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.panchang-button:hover {
+    background-color: #e65c00;
+} 
